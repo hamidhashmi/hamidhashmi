@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamidhashmi
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning git, go, kubernetes.
+- 🌱 I’m currently learning Devops on AWS.
 - 📫 How to reach me - hamidhashmi7@gmail.com
 
 <!---
